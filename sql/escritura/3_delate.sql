@@ -1,0 +1,1 @@
+Delete From users where user_id=12;

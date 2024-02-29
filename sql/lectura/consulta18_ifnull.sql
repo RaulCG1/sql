@@ -1,0 +1,1 @@
+SELECT name,surname, IFNULL(age,0) AS 'Age' FROM users;
